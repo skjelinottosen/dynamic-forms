@@ -1,0 +1,13 @@
+img {
+  width: 10rem;
+}
+
+.toolbar {
+  display: flex;
+}
+
+.toolbar-item {
+  font: 2rem;
+  width: 30%;
+  margin-right: 1rem;
+}
